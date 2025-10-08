@@ -1,4 +1,0 @@
-Invoking command in '/home/ali/Robotics_project/build/mujoco_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ali/Robotics_project/src/mujoco_ros2 -DMUJOCO_ROOT_DIR=/home/ali/mujoco-3.2.0 -DCMAKE_INSTALL_PREFIX=/home/ali/Robotics_project/install/mujoco_ros2
-Invoked command in '/home/ali/Robotics_project/build/mujoco_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ali/Robotics_project/src/mujoco_ros2 -DMUJOCO_ROOT_DIR=/home/ali/mujoco-3.2.0 -DCMAKE_INSTALL_PREFIX=/home/ali/Robotics_project/install/mujoco_ros2
-Invoking command in '/home/ali/Robotics_project/build/mujoco_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ali/Robotics_project/build/mujoco_ros2 -- -j12 -l12
-Invoked command in '/home/ali/Robotics_project/build/mujoco_ros2' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ali/Robotics_project/build/mujoco_ros2 -- -j12 -l12
